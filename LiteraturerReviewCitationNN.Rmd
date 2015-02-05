@@ -1,0 +1,27 @@
+---
+title: "Literature Review"
+author: ""
+date: "January 30, 2015"
+output: html_document
+---
+The association I have chosen to examine is that between corruption and economic factors of nations around the world. 
+
+References:
+
+Ionescu, Luminita. “Perceptions Of Corruption In Emerging Economies.” Economics, Management & Financial Markets Vol. 8.Issue 1 (2013): p136–141. Web.
+
+Li, Hui, Ting Gong, and Hanyu Xiao. “The Perception Of Anti-Corruption Efficacy In China: An Empirical Analysis.” Social Indicators Research (2015): Web.
+
+Mengistu, Berhanu, Seid Hassan, and Tilahun Teklu. “Public Perceptions Of Corruption In Ethiopia: Assessment And Descriptive Analysis.” International Journal of Business & Public Administration Vol. 10 .Issue 2 (2013): p90–120. Web.
+
+Ulman, Simona-Roxana. “Distinction Between Corruption Perceptions On The Ethical And Practical Levels.” USV Annals of Economics & Public Administration Vol. 14.Issue 1 (2014): p251–260. Web.
+
+Walton, Grant W. “Is All Corruption Dysfunctional? Perceptions Of Corruption And Its Consequences In Papua New Guinea.” Public Administration & Development Vol. 33.Issue 3 (2013): p175–190. Web.
+
+Based on read the referenced articles I was able to find a common themes:
+
+1. There can be a difference between the actual corruption and perceived corruption of a nation. Corruption can be defined by a variety of factors.
+
+2. Some economies have societies that enable corruption.
+
+I will be using data in the GapMinder dataset to complete my analysis. To be more specific, I will be comparing the Corruption Perception Index (CPI) with a number of economic factors, such as GPI and any other relevant economic data.
